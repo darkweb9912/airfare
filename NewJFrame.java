@@ -3,8 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-   // sauravhathi
-package com.sauravhathi.airfare;
+
+package com.subham.airfare;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
